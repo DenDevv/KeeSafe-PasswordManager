@@ -15,6 +15,7 @@ ___
 
 ## Buttons Panel
 > __"New" button__ - add new data to manager.
+> 
 > <img src="images/add_new_data.png" width="350" style="margin-top: 10px">
 
 > __"Edit button"__ - edit data in manager.
